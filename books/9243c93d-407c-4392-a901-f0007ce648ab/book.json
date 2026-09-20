@@ -1,0 +1,154 @@
+{
+  "format": "interactive-books",
+  "packageVersion": 1,
+  "book": {
+    "schemaVersion": 3,
+    "id": "9243c93d-407c-4392-a901-f0007ce648ab",
+    "title": "Ejemplo",
+    "author": "",
+    "description": "",
+    "coverResourceId": null,
+    "format": {
+      "width": 1000,
+      "height": 563
+    },
+    "pages": [
+      {
+        "id": "ddb0fcf0-ff56-4719-b843-d330f2e27902",
+        "alt": "",
+        "background": {
+          "resourceId": "8073ea90-47df-4d4b-9155-92508ac4ddaa",
+          "fit": "contain"
+        },
+        "elements": [
+          {
+            "id": "7237a0a1-798e-47d9-9bbc-25cf46986de3",
+            "type": "hotspot",
+            "name": "Página siguiente",
+            "description": "",
+            "x": 0.8191549330100104,
+            "y": 0.8042508651776582,
+            "width": 0.06,
+            "height": 0.10657193605683836,
+            "locked": false,
+            "indicator": {
+              "type": "icon",
+              "size": 28,
+              "opacity": 0.85
+            },
+            "action": {
+              "type": "next"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a810196e-7eb1-4f6b-8ad1-325f60059434",
+        "alt": "",
+        "background": {
+          "resourceId": "215e7842-f1de-4bc3-bfc1-8765fde539b7",
+          "fit": "contain"
+        },
+        "elements": [
+          {
+            "id": "e560e34b-4db3-467a-bf1b-919f99c6637f",
+            "type": "hotspot",
+            "name": "Página siguiente",
+            "description": "",
+            "x": 0.8191549330100104,
+            "y": 0.8018867408224661,
+            "width": 0.06,
+            "height": 0.10657193605683836,
+            "locked": false,
+            "indicator": {
+              "type": "icon",
+              "size": 28,
+              "opacity": 0.85
+            },
+            "action": {
+              "type": "next"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d2ca6c92-b03c-46c1-9990-69385ad89841",
+        "alt": "",
+        "background": {
+          "resourceId": "93421d1e-6b3e-4a4f-9524-0f828a4c0492",
+          "fit": "contain"
+        },
+        "elements": [
+          {
+            "id": "ee6c0bf3-e889-426d-bcb4-631926784097",
+            "type": "hotspot",
+            "name": "Página anterior",
+            "description": "",
+            "x": 0.8484366159139051,
+            "y": 0.8349844817951553,
+            "width": 0.06,
+            "height": 0.10657193605683836,
+            "locked": false,
+            "indicator": {
+              "type": "icon",
+              "size": 28,
+              "opacity": 0.85
+            },
+            "action": {
+              "type": "previous"
+            }
+          }
+        ]
+      }
+    ],
+    "createdAt": "2026-09-20T12:58:45.985Z",
+    "updatedAt": "2026-09-20T13:01:54.921Z"
+  },
+  "resources": [
+    {
+      "id": "8073ea90-47df-4d4b-9155-92508ac4ddaa",
+      "kind": "image",
+      "name": "134338166888813486.jpg",
+      "mime": "image/jpeg",
+      "size": 2077023,
+      "path": "images/8073ea90-47df-4d4b-9155-92508ac4ddaa.jpg",
+      "width": 3840,
+      "height": 2160,
+      "thumbnail": {
+        "path": "thumbnails/8073ea90-47df-4d4b-9155-92508ac4ddaa.webp",
+        "mime": "image/webp",
+        "size": 14176
+      }
+    },
+    {
+      "id": "215e7842-f1de-4bc3-bfc1-8765fde539b7",
+      "kind": "image",
+      "name": "134338166888813486.jpg",
+      "mime": "image/jpeg",
+      "size": 2077023,
+      "path": "images/215e7842-f1de-4bc3-bfc1-8765fde539b7.jpg",
+      "width": 3840,
+      "height": 2160,
+      "thumbnail": {
+        "path": "thumbnails/215e7842-f1de-4bc3-bfc1-8765fde539b7.webp",
+        "mime": "image/webp",
+        "size": 14176
+      }
+    },
+    {
+      "id": "93421d1e-6b3e-4a4f-9524-0f828a4c0492",
+      "kind": "image",
+      "name": "134333975959054724.jpg",
+      "mime": "image/jpeg",
+      "size": 2445451,
+      "path": "images/93421d1e-6b3e-4a4f-9524-0f828a4c0492.jpg",
+      "width": 3840,
+      "height": 2160,
+      "thumbnail": {
+        "path": "thumbnails/93421d1e-6b3e-4a4f-9524-0f828a4c0492.webp",
+        "mime": "image/webp",
+        "size": 9806
+      }
+    }
+  ]
+}
