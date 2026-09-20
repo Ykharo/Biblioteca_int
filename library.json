@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "title": "Biblioteca",
+  "books": [
+    {
+      "id": "9243c93d-407c-4392-a901-f0007ce648ab",
+      "title": "Ejemplo",
+      "description": "",
+      "cover": "books/9243c93d-407c-4392-a901-f0007ce648ab/thumbnails/8073ea90-47df-4d4b-9155-92508ac4ddaa.webp",
+      "manifest": "books/9243c93d-407c-4392-a901-f0007ce648ab/book.json"
+    },
+    {
+      "id": "02475297-90b6-4b5a-b72b-ac678cc95402",
+      "title": "Ingles 02",
+      "description": "",
+      "cover": "books/02475297-90b6-4b5a-b72b-ac678cc95402/thumbnails/eaf72b64-edb2-446b-8211-7bd10864f81c.webp",
+      "manifest": "books/02475297-90b6-4b5a-b72b-ac678cc95402/book.json"
+    }
+  ]
+}

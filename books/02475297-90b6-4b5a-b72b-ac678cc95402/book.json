@@ -1,0 +1,349 @@
+{
+  "format": "interactive-books",
+  "packageVersion": 1,
+  "book": {
+    "schemaVersion": 2,
+    "id": "02475297-90b6-4b5a-b72b-ac678cc95402",
+    "title": "Ingles 02",
+    "author": "",
+    "description": "",
+    "coverResourceId": null,
+    "format": {
+      "width": 1000,
+      "height": 1337
+    },
+    "pages": [
+      {
+        "id": "4c6069ec-4c0c-4778-9519-8560be745363",
+        "alt": "",
+        "background": {
+          "resourceId": "eaf72b64-edb2-446b-8211-7bd10864f81c",
+          "fit": "contain"
+        },
+        "elements": [
+          {
+            "id": "6ba9a198-065a-49f9-9660-3ce693d2d057",
+            "type": "hotspot",
+            "name": "Audio",
+            "description": "",
+            "x": 0.45933333333333337,
+            "y": 0.14277402791736785,
+            "width": 0.06,
+            "height": 0.04487658937920718,
+            "locked": false,
+            "indicator": {
+              "type": "icon",
+              "size": 28,
+              "opacity": 0.85
+            },
+            "action": {
+              "type": "audio",
+              "resourceId": "79bf4d0b-d801-42d2-94b7-debd703eae5e"
+            }
+          }
+        ]
+      },
+      {
+        "id": "33808039-88a6-43ed-9581-818af1006c03",
+        "alt": "",
+        "background": {
+          "resourceId": "fc25c4d5-0cf5-4883-940d-6cb571e7d014",
+          "fit": "contain"
+        },
+        "elements": []
+      },
+      {
+        "id": "0867d362-6f9a-4f6f-9cea-60aff33f9f84",
+        "alt": "",
+        "background": {
+          "resourceId": "5ca50cd1-74d8-4210-9f58-bad2e9a4eef9",
+          "fit": "contain"
+        },
+        "elements": [
+          {
+            "id": "0744f0dd-94f5-49ab-8ae4-1cb4cc6fe9da",
+            "type": "hotspot",
+            "name": "Audio",
+            "description": "",
+            "x": 0.3633333333333333,
+            "y": 0.23651623684282289,
+            "width": 0.06,
+            "height": 0.04487658937920718,
+            "locked": false,
+            "indicator": {
+              "type": "icon",
+              "size": 28,
+              "opacity": 0.85
+            },
+            "action": {
+              "type": "audio",
+              "resourceId": "18b9cfa1-1b68-4f78-9077-f397a62bcfb4"
+            }
+          },
+          {
+            "id": "e94ea86e-d3fe-40e0-a5ff-5a0d5fe596a3",
+            "type": "hotspot",
+            "name": "Audio",
+            "description": "",
+            "x": 0.17266666666666666,
+            "y": 0.810936588505146,
+            "width": 0.06,
+            "height": 0.04487658937920718,
+            "locked": false,
+            "indicator": {
+              "type": "icon",
+              "size": 28,
+              "opacity": 0.85
+            },
+            "action": {
+              "type": "audio",
+              "resourceId": "2e65f460-f181-4599-8861-83e01b8309b1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c4ee4113-d8c5-4e89-996d-593fff8f60b2",
+        "alt": "",
+        "background": {
+          "resourceId": "7960f95b-bb50-42fc-be08-6f315522ced6",
+          "fit": "contain"
+        },
+        "elements": [
+          {
+            "id": "45e5d9a7-f111-40b3-91ec-c135f0ee8b39",
+            "type": "hotspot",
+            "name": "Audio",
+            "description": "",
+            "x": 0.3446666666666667,
+            "y": 0.08027923211169284,
+            "width": 0.06,
+            "height": 0.04487658937920718,
+            "locked": false,
+            "indicator": {
+              "type": "icon",
+              "size": 28,
+              "opacity": 0.85
+            },
+            "action": {
+              "type": "audio",
+              "resourceId": "ca4850fd-0496-4504-99e2-3b2c7fb93fc5"
+            }
+          }
+        ]
+      },
+      {
+        "id": "366c027c-4ad5-4ca8-b5c6-8171f243dc13",
+        "alt": "",
+        "background": {
+          "resourceId": "2faac1fd-0edd-4a88-b45d-ac3707f549bd",
+          "fit": "contain"
+        },
+        "elements": [
+          {
+            "id": "33f8bcdf-b735-42a1-a663-17925ce4b1bc",
+            "type": "hotspot",
+            "name": "Audio",
+            "description": "",
+            "x": 0.3753333333333333,
+            "y": 0.18366159473800564,
+            "width": 0.06,
+            "height": 0.04487658937920718,
+            "locked": false,
+            "indicator": {
+              "type": "icon",
+              "size": 28,
+              "opacity": 0.85
+            },
+            "action": {
+              "type": "audio",
+              "resourceId": "50bee530-7aae-4755-80e4-9cf93d160b46"
+            }
+          },
+          {
+            "id": "405706ed-7e86-4fe6-84b0-ea7ed94da269",
+            "type": "hotspot",
+            "name": "Audio",
+            "description": "",
+            "x": 0.378,
+            "y": 0.4878251449748543,
+            "width": 0.06,
+            "height": 0.04487658937920718,
+            "locked": false,
+            "indicator": {
+              "type": "icon",
+              "size": 28,
+              "opacity": 0.85
+            },
+            "action": {
+              "type": "audio",
+              "resourceId": "1fa48f88-0803-4145-a8c3-e952b9e9a79d"
+            }
+          },
+          {
+            "id": "4cd72177-5f30-4aca-a287-c85f4f3c3d72",
+            "type": "hotspot",
+            "name": "Audio",
+            "description": "",
+            "x": 0.094,
+            "y": 0.8917144493877189,
+            "width": 0.06,
+            "height": 0.04487658937920718,
+            "locked": false,
+            "indicator": {
+              "type": "icon",
+              "size": 28,
+              "opacity": 0.85
+            },
+            "action": {
+              "type": "audio",
+              "resourceId": "334f25fd-1673-48e4-a5a6-17bd37fb940f"
+            }
+          }
+        ]
+      }
+    ],
+    "createdAt": "2026-09-20T01:45:16.760Z",
+    "updatedAt": "2026-09-20T04:33:26.339Z"
+  },
+  "resources": [
+    {
+      "id": "eaf72b64-edb2-446b-8211-7bd10864f81c",
+      "kind": "image",
+      "name": "P_02.jpg",
+      "mime": "image/jpeg",
+      "size": 742505,
+      "path": "images/eaf72b64-edb2-446b-8211-7bd10864f81c.jpg",
+      "width": 1171,
+      "height": 1566,
+      "thumbnail": {
+        "path": "thumbnails/eaf72b64-edb2-446b-8211-7bd10864f81c.webp",
+        "mime": "image/webp",
+        "size": 22802
+      }
+    },
+    {
+      "id": "fc25c4d5-0cf5-4883-940d-6cb571e7d014",
+      "kind": "image",
+      "name": "P_03.jpg",
+      "mime": "image/jpeg",
+      "size": 656217,
+      "path": "images/fc25c4d5-0cf5-4883-940d-6cb571e7d014.jpg",
+      "width": 1171,
+      "height": 1566,
+      "thumbnail": {
+        "path": "thumbnails/fc25c4d5-0cf5-4883-940d-6cb571e7d014.webp",
+        "mime": "image/webp",
+        "size": 20058
+      }
+    },
+    {
+      "id": "5ca50cd1-74d8-4210-9f58-bad2e9a4eef9",
+      "kind": "image",
+      "name": "P_04.jpg",
+      "mime": "image/jpeg",
+      "size": 560621,
+      "path": "images/5ca50cd1-74d8-4210-9f58-bad2e9a4eef9.jpg",
+      "width": 1204,
+      "height": 1651,
+      "thumbnail": {
+        "path": "thumbnails/5ca50cd1-74d8-4210-9f58-bad2e9a4eef9.webp",
+        "mime": "image/webp",
+        "size": 17892
+      }
+    },
+    {
+      "id": "7960f95b-bb50-42fc-be08-6f315522ced6",
+      "kind": "image",
+      "name": "P_05.jpg",
+      "mime": "image/jpeg",
+      "size": 603283,
+      "path": "images/7960f95b-bb50-42fc-be08-6f315522ced6.jpg",
+      "width": 1206,
+      "height": 1657,
+      "thumbnail": {
+        "path": "thumbnails/7960f95b-bb50-42fc-be08-6f315522ced6.webp",
+        "mime": "image/webp",
+        "size": 18974
+      }
+    },
+    {
+      "id": "2faac1fd-0edd-4a88-b45d-ac3707f549bd",
+      "kind": "image",
+      "name": "P_06.jpg",
+      "mime": "image/jpeg",
+      "size": 494111,
+      "path": "images/2faac1fd-0edd-4a88-b45d-ac3707f549bd.jpg",
+      "width": 1206,
+      "height": 1657,
+      "thumbnail": {
+        "path": "thumbnails/2faac1fd-0edd-4a88-b45d-ac3707f549bd.webp",
+        "mime": "image/webp",
+        "size": 17270
+      }
+    },
+    {
+      "id": "79bf4d0b-d801-42d2-94b7-debd703eae5e",
+      "kind": "audio",
+      "name": "1-02 Lets Go Fifth Edition Student Book 2.mp3",
+      "mime": "audio/mpeg",
+      "size": 1435752,
+      "path": "audio/79bf4d0b-d801-42d2-94b7-debd703eae5e.mp3",
+      "duration": 44.8
+    },
+    {
+      "id": "18b9cfa1-1b68-4f78-9077-f397a62bcfb4",
+      "kind": "audio",
+      "name": "1-03 Lets Go Fifth Edition Student Book 2.mp3",
+      "mime": "audio/mpeg",
+      "size": 1067948,
+      "path": "audio/18b9cfa1-1b68-4f78-9077-f397a62bcfb4.mp3",
+      "duration": 33.306125
+    },
+    {
+      "id": "2e65f460-f181-4599-8861-83e01b8309b1",
+      "kind": "audio",
+      "name": "1-04 Lets Go Fifth Edition Student Book 2.mp3",
+      "mime": "audio/mpeg",
+      "size": 691785,
+      "path": "audio/2e65f460-f181-4599-8861-83e01b8309b1.mp3",
+      "duration": 21.551031
+    },
+    {
+      "id": "ca4850fd-0496-4504-99e2-3b2c7fb93fc5",
+      "kind": "audio",
+      "name": "1-05 Lets Go Fifth Edition Student Book 2.mp3",
+      "mime": "audio/mpeg",
+      "size": 1791018,
+      "path": "audio/ca4850fd-0496-4504-99e2-3b2c7fb93fc5.mp3",
+      "duration": 55.902063
+    },
+    {
+      "id": "50bee530-7aae-4755-80e4-9cf93d160b46",
+      "kind": "audio",
+      "name": "1-06 Lets Go Fifth Edition Student Book 2.mp3",
+      "mime": "audio/mpeg",
+      "size": 1514329,
+      "path": "audio/50bee530-7aae-4755-80e4-9cf93d160b46.mp3",
+      "duration": 47.255531
+    },
+    {
+      "id": "1fa48f88-0803-4145-a8c3-e952b9e9a79d",
+      "kind": "audio",
+      "name": "1-07 Lets Go Fifth Edition Student Book 2.mp3",
+      "mime": "audio/mpeg",
+      "size": 2306779,
+      "path": "audio/1fa48f88-0803-4145-a8c3-e952b9e9a79d.mp3",
+      "duration": 72.019594
+    },
+    {
+      "id": "334f25fd-1673-48e4-a5a6-17bd37fb940f",
+      "kind": "audio",
+      "name": "1-08 Lets Go Fifth Edition Student Book 2.mp3",
+      "mime": "audio/mpeg",
+      "size": 2578453,
+      "path": "audio/334f25fd-1673-48e4-a5a6-17bd37fb940f.mp3",
+      "duration": 80.509406
+    }
+  ]
+}
