@@ -2,7 +2,7 @@
   "format": "interactive-books",
   "packageVersion": 1,
   "book": {
-    "schemaVersion": 2,
+    "schemaVersion": 3,
     "id": "02475297-90b6-4b5a-b72b-ac678cc95402",
     "title": "Ingles 02",
     "author": "",
@@ -98,6 +98,26 @@
             "action": {
               "type": "audio",
               "resourceId": "2e65f460-f181-4599-8861-83e01b8309b1"
+            }
+          },
+          {
+            "id": "6356b056-98e1-453e-8d91-005fde514780",
+            "type": "hotspot",
+            "name": "Video",
+            "description": "",
+            "x": 0.39639180416215025,
+            "y": 0.8997235671736536,
+            "width": 0.06,
+            "height": 0.04487658937920718,
+            "locked": false,
+            "indicator": {
+              "type": "icon",
+              "size": 28,
+              "opacity": 0.85
+            },
+            "action": {
+              "type": "video",
+              "resourceId": "e032b170-da58-49b2-ae20-582d6c4516ab"
             }
           }
         ]
@@ -204,7 +224,7 @@
       }
     ],
     "createdAt": "2026-09-20T01:45:16.760Z",
-    "updatedAt": "2026-09-20T04:33:26.339Z"
+    "updatedAt": "2026-09-20T21:09:22.880Z"
   },
   "resources": [
     {
@@ -308,6 +328,17 @@
       "size": 691785,
       "path": "audio/2e65f460-f181-4599-8861-83e01b8309b1.mp3",
       "duration": 21.551031
+    },
+    {
+      "id": "e032b170-da58-49b2-ae20-582d6c4516ab",
+      "kind": "video",
+      "name": "lg5e_sb2_u1_letstalk_1.mp4",
+      "mime": "video/mp4",
+      "size": 6802413,
+      "path": "video/e032b170-da58-49b2-ae20-582d6c4516ab.mp4",
+      "duration": 57.190467,
+      "width": 640,
+      "height": 360
     },
     {
       "id": "ca4850fd-0496-4504-99e2-3b2c7fb93fc5",
